@@ -1,3 +1,3 @@
-# ttc8030-harjoitukset
+# Exercises for TTC8030
 
-Datan esikäsittely -opintojakson harjoitusten repositorio
+Exercise repository for the data preprocessing course
