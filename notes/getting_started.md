@@ -20,7 +20,8 @@ conda install python jupyterlab pandas
 To run JupyterLab in a browser, run in project directory:
 
 ```bash
-jupyter notebook
+# jupyter notebook
+jupyter lab
 
 # http://localhost:8888/tree/exercises
 ```
