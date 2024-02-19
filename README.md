@@ -1,5 +1,13 @@
 # Exercises for Data Preprocessing [TTC8030]
 
+- [x] [Pandas - part 1](./exercises/Exercise_1_Pandas_part_1.ipynb)
+- [x] [Pandas - part 2](./exercises/Exercise_2_Pandas_part_2.ipynb)
+- [x] [Rest API](./exercises/Exercise_3_Rest_API.ipynb)
+- [x] [SQLite](./exercises/Exercise_4_SQLite.ipynb)
+- [x] [Regex](./exercises/Exercise_5_Regex.ipynb)
+- [x] [XML](./exercises/Exercise_6_XML.ipynb)
+- [x] [Final Exercise](./exercises/Exercise_7_Final.ipynb)
+
 ## Jupyter Notebook shortcuts
 
 - `ctrl` + `enter` - run cell
